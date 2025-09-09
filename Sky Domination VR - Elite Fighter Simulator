@@ -1,1 +1,22 @@
+# VR Project
+
+This repository contains the source files and setup instructions for my VR project.  
+Due to GitHub's file size limitation (25 MB), the complete Unity project (with assets and build files) is hosted on Google Drive.  
+
+👉 [Download Full Project from Google Drive](https://drive.google.com/file/d/1iwZon7IXoKMlA73TVSSLX97bi-7-TYrX/view?usp=drive_link)  
+
+## How to Use
+1. Download the project from the Google Drive link above.  
+2. Extract the ZIP file.  
+3. Open the project in **Unity Editor** (tested on Unity 6).  
+4. Make sure you have **SteamVR** installed for VR integration.  
+
+## Project Info
+- Developed using **Unity**  
+- VR support via **SteamVR**  
+- Contains environment, assets, and scripts  
+
+---
+
+✦ If you face any issue with the link or project setup, feel free to raise an issue in this repo.
 
